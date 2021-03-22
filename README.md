@@ -4,7 +4,6 @@
  <li> Graduando no curso  Sistemas de Informação da PUC Minas (Majoring in Information System from PUC Minas University)</li>
  </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarOncala&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
  ## Tenho conhecimento nestas tecnologias (I have knowledge in these technologies)
