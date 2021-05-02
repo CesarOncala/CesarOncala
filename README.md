@@ -9,7 +9,7 @@
 
  ## Tenho conhecimento nestas tecnologias (I have knowledge in these technologies)
 <p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREqlz2AD217ox_yMXvwtBrFF1MOk3cTog59SMNIAZmagBz5Lt2zYoFnzziqgUtJ52l-XM&usqp=CAU" alt="C#" height="33" style="vertical-align:top; margin:4px"> 
+<img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="C#" height="33" style="vertical-align:top; margin:4px"> 
   <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="Jquery" height="33" style="vertical-align:top; margin:4px">
      <img src="https://www.chip.de/ii/1/4/6/2/0/6/9/4/Bild16.gif-c7ebc5fd16444644.jpg" alt="Jquery" height="33" style="vertical-align:top; margin:4px;">     
     <img src="https://www.kindpng.com/picc/m/338-3389436_mysql-logo-jpg-hd-png-download.png" alt="React" height="31" style="vertical-align:top; margin:4px;">   
