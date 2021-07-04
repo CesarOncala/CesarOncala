@@ -14,9 +14,9 @@
         <img src="https://img.favpng.com/25/1/22/microsoft-sql-server-database-microsoft-corporation-application-software-png-favpng-vTJVuHCzMsyVhv07AjTXMqwh7.jpg" alt="SQL Server" height="33" style="vertical-align:top; margin:4px;">   
   </p>
   
-  ### Já tive um pouco de experiência com estas tecnologias (I have little experience with thises technologys)
-<p >
+  
 
+<p >
    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" height="33" style="vertical-align:top; margin:4px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" height="34" style="vertical-align:top; margin:4px;">   
   <img src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="React" height="31" style="vertical-align:top; margin:4px;">   
