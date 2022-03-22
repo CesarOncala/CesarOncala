@@ -11,7 +11,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="33" 
      style="vertical-align:top; margin:4px;">
   
- <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" alt="Typescript" height="31" style="vertical-align:top; margin:4px;">   
+ <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" height="31" style="vertical-align:top; margin:4px;">   
   
   
   <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="Jquery" height="33" style="vertical-align:top; margin:4px">
