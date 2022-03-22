@@ -1,10 +1,19 @@
 
 # Olá, Seja Bem vindo ao Meu GitHub! (Hello, Welcome to My GitHub!) 
 
-<ul>
- <li> Graduando no curso  Sistemas de Informação da PUC Minas (Majoring in Information System from PUC Minas University)</li>
+ <ul>
+    <li> Graduando no curso  Sistemas de Informação da PUC Minas (Majoring in Information Systems from PUC Minas University) 🎓</li>
+    <li> Técnico em Administração pelo EFG NEJ - SEBRAE  (Administration Technician) 🎓 </li>
  </ul>
+ 
+ <div>
 
+ <img src="https://vestibulares2021.com.br/wp-content/uploads/2020/07/puc.png" alt="PUC" height="50" style="vertical-align:top; margin:4px"> 
+
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_inlxILNPtX1kjmklUjg1jhjIy1qfNY0vl3fWZRix-iaMA4oDwpS4tjf2DZRNNQFh4xg&usqp=CAU" alt="PUC" height="50" style="vertical-align:top; margin:4px">
+
+ </div>
+ 
 ### Contatos (Contacts) :
 
 <div>
@@ -13,31 +22,37 @@
 </div>
 
 
- ### Tenho conhecimento nestas tecnologias (I have knowledge in these technologies)
+ ### Tenho conhecimento nestas tecnologias (I have knowledge in these technologies) 💻
 <p> 
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="33" style="vertical-align:top; margin:4px"> 
+ 
 
- <img src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg"  alt=".NET Framework" height="33" style="vertical-align:top; margin:4px;"> 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS" height="33" 
-     style="vertical-align:top; margin:4px;">
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="33" style="vertical-align:top; margin:4px"> 
+ 
+ <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET" height="33" style="vertical-align:top; margin:4px"> 
+
+  <img src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg" alt=".NET" height="33" style="vertical-align:top; margin:4px"> 
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS" height="33" style="vertical-align:top; margin:4px;">
   
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" height="31" style="vertical-align:top; margin:4px;">   
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" height="33" style="vertical-align:top; margin:4px">
+
+   <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+angular-1324451232424045372.png" alt="Angular" height="35" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" height="34" style="vertical-align:top; margin:4px;">   
+ 
+ <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" height="33" style="vertical-align:top; margin:4px">
        
  
  <img src="https://img.favpng.com/25/1/22/microsoft-sql-server-database-microsoft-corporation-application-software-png-favpng-vTJVuHCzMsyVhv07AjTXMqwh7.jpg" alt="SQL Server" height="33" style="vertical-align:top; margin:4px;">
-         <img src="https://rplearning.com.br/pluginfile.php/461/course/overviewfiles/PostgreSQL%202.jpg" alt="Postgree" height="33" style="vertical-align:top; margin:4px;">
+
+ <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgree" height="33" style="vertical-align:top; margin:4px;">
 
  
-  <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+angular-1324451232424045372.png" alt="Angular" height="35" style="vertical-align:top; margin:4px">
+   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" height="33" style="vertical-align:top; margin:4px">
+ 
+
+
   </p>
   
-  ### Já tive um pouco de experiência com estas tecnologias (I have little experience with thises technologys)
-<p >
-
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" height="33" style="vertical-align:top; margin:4px">
- <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" height="34" style="vertical-align:top; margin:4px;">   
-
-</p>
 
 
