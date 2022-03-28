@@ -8,9 +8,6 @@
  
  <div>
 
- <img src="https://vestibulares2021.com.br/wp-content/uploads/2020/07/puc.png" alt="PUC" height="50" style="vertical-align:top; margin:4px"> 
-
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_inlxILNPtX1kjmklUjg1jhjIy1qfNY0vl3fWZRix-iaMA4oDwpS4tjf2DZRNNQFh4xg&usqp=CAU" alt="PUC" height="50" style="vertical-align:top; margin:4px">
 
  </div>
  
