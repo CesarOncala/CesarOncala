@@ -41,6 +41,9 @@
        
  
  <img src="https://img.favpng.com/25/1/22/microsoft-sql-server-database-microsoft-corporation-application-software-png-favpng-vTJVuHCzMsyVhv07AjTXMqwh7.jpg" alt="SQL Server" height="33" style="vertical-align:top; margin:4px;">
+ 
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" height="33" style="vertical-align:top; margin:4px;">
+
 
  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgree" height="33" style="vertical-align:top; margin:4px;">
 
