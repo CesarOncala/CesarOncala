@@ -10,7 +10,7 @@
  
  <p> Além da experiência e conhecimento em todos os processos de desenvolvimento de software, também tenho conhecimentos na geração de insights  a partir de dados oriundos destes softwares, através de mineração de dados, KDD, Bussines Intelligence e afins. </p>
  
-<p> Dessarte, possuo conhecimentos em todas as áreas da Tecnologia da Informação e também alguns conhecimentos nas áreas de estatística e gestão de processos. </p>
+<p> Dessarte, possuo conhecimentos em todas as áreas da Tecnologia da Informação e também alguns conhecimentos nas áreas de estatística, gestão de processos, pesquisa operacional, matemática computacional e afins. </p>
  
 ### Contatos (Contacts) :
 
