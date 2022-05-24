@@ -6,11 +6,11 @@
     <li> Técnico em Administração pelo EFG NEJ - SEBRAE  (Administration Technician) 🎓 </li>
  </ul>
  
-<p> Como bacharel em Sistemas de Informação, tenho conhecimento em todas as fases de desenvolvimento de softwares tais como modelagem do processo, modelagem de dados conceitual, lógica e física,  elicitação de requisitos, modelagem arquitetural, processos de qualidade, estimativas de desenvolvimento analisando fatores como pontos por função,  plano de testes, implatação e avaliação da capacidade do sistemas dentre outros. </p>
+<p> Como bacharel em Sistemas de Informação, tenho conhecimento em todas as fases de desenvolvimento de softwares tais como modelagem do processo com BPMN, modelagem de dados conceitual, lógica e física com DER, minimundo, UML,  elicitação de requisitos, modelagem arquitetural, processos de qualidade, estimativas de desenvolvimento analisando fatores como pontos por função,  plano de testes, implatação e avaliação da capacidade do sistemas dentre outros. No desenvolvimento destes softwares possuo conhecimento e experiência na abstração de problemas complexos em grafos, estruturas de dados como árvores AVL e ABB, tabelas hash e afins.  </p>
  
- <p> Além da experiência e conhecimento em todos os processos de desenvolvimento de software, também tenho conhecimentos na geração de insights  a partir de dados oriundos destes softwares, através de mineração de dados, KDD, Bussines Intelligence e afins. </p>
+ <p> Além da experiência e conhecimento em todos os processos de desenvolvimento de software, possuo conhecimentos para atuar como um DBA, AD otimizando consultas, manipulando controle de acessos com grants, criptografia de dados, normalização  de banco de dados e afins. Também tenho conhecimentos na geração de insights  a partir de dados oriundos destes softwares, através de mineração de dados, KDD, Bussines Intelligence, modelagem de dados históricos com Data Warehouse e afins. </p>
  
-<p> Dessarte, possuo conhecimentos em todas as áreas da Tecnologia da Informação e também alguns conhecimentos nas áreas de estatística, gestão de processos, pesquisa operacional, matemática computacional e afins. </p>
+<p> Dessarte, possuo conhecimentos em todas as áreas da Tecnologia da Informação, como arquitetura de computadores, redes de computadores, sistemas operacionais,  e também alguns conhecimentos nas áreas de estatística, gêrencia de projetos com metodologias ágeis e conservadoras utilizando como por exemplo PMBOK incluindo com isto gestão de processos, além de conhecimentos voltados para matemática e otimização com pesquisa operacional, matemática computacional e afins. </p>
  
 ### Contatos (Contacts) :
 
@@ -19,6 +19,17 @@
 <a href="https://www.linkedin.com/in/cesaroncala" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+  
+   ### Metodologias
+   - SCRUM
+   - Extreme Programing (XP)
+   - Metodologia Incremental
+   - Metodologia Expiral
+   - Metodologia Cascata (Waterfall)
+   - Rapid Aplication Development (RAD)
+   - Rational Unified Process (RUP)
+   - Kanban
+  
 
  ### Tenho conhecimento nestas tecnologias (I have knowledge in these technologies) 💻
 <p> 
@@ -54,7 +65,7 @@
 
 
   </p>
-  
+
 
   
 
