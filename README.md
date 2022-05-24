@@ -25,6 +25,7 @@
    - Extreme Programing (XP)
    - Metodologia Incremental
    - Metodologia Expiral
+   - Prototipação
    - Metodologia Cascata (Waterfall)
    - Rapid Aplication Development (RAD)
    - Rational Unified Process (RUP)
