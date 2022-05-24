@@ -10,7 +10,7 @@
  
  <p> Além da experiência e conhecimento em todos os processos de desenvolvimento de software, possuo conhecimentos para atuar como um DBA, AD otimizando consultas, manipulando controle de acessos com grants, criptografia de dados, normalização  de banco de dados e afins. Também tenho conhecimentos na geração de insights  a partir de dados oriundos destes softwares, através de mineração de dados, KDD, Bussines Intelligence, modelagem de dados históricos com Data Warehouse dentre outros. </p>
  
-<p> Dessarte, possuo conhecimentos em todas as áreas da Tecnologia da Informação, como arquitetura de computadores, redes de computadores, sistemas operacionais,  e também alguns conhecimentos nas áreas de estatística, gêrencia de projetos com metodologias ágeis e conservadoras utilizando como por exemplo PMBOK incluindo com isto gestão de processos, além de conhecimentos voltados para matemática e otimização com pesquisa operacional, matemática computacional e afins. </p>
+<p> Dessarte, possuo conhecimentos em todas as áreas da Tecnologia da Informação, como arquitetura de computadores, redes de computadores, sistemas operacionais,  e também alguns conhecimentos nas áreas de estatística, gêrencia de projetos com metodologias ágeis e conservadoras utilizando como por exemplo PMBOK incluindo com isto gestão de processos, além de conhecimentos voltados para matemática e otimização com pesquisa operacional, matemática computacional, matemática discreta e afins. </p>
  
 ### Contatos (Contacts) :
 
