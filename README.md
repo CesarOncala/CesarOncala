@@ -15,6 +15,9 @@
 </div>
 
   
+  ### Certifications
+  - CPRE-FL 
+  
    ### Metodologias (Methodologys)
    - SCRUM
    - Extreme Programing (XP)
