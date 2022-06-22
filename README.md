@@ -1,13 +1,13 @@
 
-# Olá, Seja Bem vindo ao Meu GitHub! (Hello, Welcome to My GitHub!) 
+# Hello, Welcome to My GitHub! 
 
  <ul>
-    <li> Graduando no curso  Sistemas de Informação da PUC Minas (Majoring in Information Systems from PUC Minas University) 🎓</li>
-    <li> Técnico em Administração pelo EFG NEJ - SEBRAE  (Administration Technician) 🎓 </li>
+    <li> Majoring in Information Systems from PUC Minas University 🎓</li>
+    <li> Administration Technician from EFG NEJ - SEBRAE  🎓 </li>
  </ul>
 
  
-### Contatos (Contacts) :
+### Contacts :
 
 <div>
 <a href = "mailto:contato@cesarh.oncala"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,7 +18,7 @@
   ### Certifications
   - CPRE-FL 
   
-   ### Metodologias (Methodologys)
+   ### Methodologys
    - SCRUM
    - Extreme Programing (XP)
    - Metodologia Incremental
@@ -30,7 +30,7 @@
    - Kanban
   
 
- ### Tenho conhecimento nestas tecnologias (I have knowledge in these technologies) 💻
+ ### I have knowledge in these technologies 💻
 <p> 
  
 
