@@ -1,5 +1,5 @@
 
-# Hello, i'm César Oncala an System Analyst. Welcome to My GitHub! 
+# Hello,  Welcome to My GitHub! 
 
  <ul>
     <li> Majoring in Information Systems from PUC Minas University 🎓</li>
