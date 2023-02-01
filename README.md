@@ -2,7 +2,7 @@
 # Hello,  Welcome to My GitHub! 
 
  <ul>
-    <li> Majoring in Information Systems from PUC Minas University 🎓</li>
+    <li> Bachelor in Information Systems from PUC Minas University 🎓</li>
     <li> Administration Technician from EFG NEJ - SEBRAE  🎓 </li>
  </ul>
 
