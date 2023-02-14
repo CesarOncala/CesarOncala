@@ -18,18 +18,6 @@
   
   ### Certifications
   - CPRE-FL 
-  
-   ### Methodologys
-   - SCRUM
-   - Extreme Programing (XP)
-   - Metodologia Incremental
-   - Metodologia Expiral
-   - Prototipação
-   - Metodologia Cascata (Waterfall)
-   - Rapid Aplication Development (RAD)
-   - Rational Unified Process (RUP)
-   - Kanban
-  
 
  ### I have knowledge in these technologies 💻
 <p> 
